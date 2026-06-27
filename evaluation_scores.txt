@@ -1,0 +1,4 @@
+=== Translation Evaluation Metrics ===
+BLEU Score: 56.8088
+CHRF Score: 75.0755
+TER Score:  22.5806
